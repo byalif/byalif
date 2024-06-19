@@ -67,7 +67,7 @@ _2018 - 2023_
 
 ## 🚀 Projects
 
-### **[Sousaesthetic.com](https://sousaesthetic.com)**
+### **[Sousaesthetic.com](https://main.d354g4xaeaemb9.amplifyapp.com)**
 
 _Sept 2023 - present_
 
@@ -75,7 +75,7 @@ _Sept 2023 - present_
 - Implemented Kafka for asynchronous task management.
 - Deployed using Docker and AWS EKS.
 
-### **Picogram**
+### **[Picogram](http://dock-multi-env.eba-whinqjhn.us-east-2.elasticbeanstalk.com)**
 
 _Dec 2023 - Jan 2024_
 
@@ -89,8 +89,33 @@ _Sept 2022 - present_
 - Managed a full-stack e-commerce platform for selling beats.
 - Used Node.js and AWS S3 for backend management and storage.
 
-### **Grocery List App**
+### **[Groccery List App](https://github.com/byalif/370Fall22Sec34Team1/tree/main/GroupProject)**
 
 _Sept 2022 - Dec 2022_
 
-- Led
+- Led a team to develop a to-do list app using Android Studio.
+- Utilized GitHub for version control and collaboration.
+
+### **[Nutrition App](https://github.com/byalif/370Fall22Sec34Team1/tree/main/GroupProject)**
+
+_June 2022 - July 2022_
+
+- Developed a nutrition app with a Golang backend.
+- Integrated with external APIs for dynamic nutritional data computation.
+
+---
+
+## 📘 Relevant Coursework
+
+- CSCI 381 - Cloud Computing
+- CSCI 370 - Software Engineering
+- CSCI 355 - Internet and Web Technologies
+- CSCI 381 - Computer Vision
+- CSCI 331 - Databases
+- CSCI 323 - Design and Analysis of Algorithms
+- CSCI 340 - Operating Systems Principles
+- CSCI 316 - Principles of Programming Languages
+
+---
+
+Feel free to reach out if you have any questions or would like to collaborate on a project!
