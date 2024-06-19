@@ -2,7 +2,7 @@
 
 ### Full Stack Software Developer | Queens, NY
 
-📧 alifrahi2000@gmail.com | 📱 +1347-863-0546
+📧 alifrahi2000@gmail.com | 📱 +1 347-863-0546
 
 ---
 
