@@ -72,8 +72,13 @@ _2018 - 2023_
 _Sept 2023 - present_
 
 - Developed a fitness coaching platform using Spring Boot microservices.
-- Implemented Kafka for asynchronous task management.
-- Deployed using Docker and AWS EKS.
+- Utilized Apache Kafka for asynchronous task management and integrated Zipkin for distributed tracing.
+- Implemented a custom Spring Security filter for role-based access control in the API gateway.
+- Containerized micro-services with Docker and deployed them on an AWS EKS cluster.
+- Set up a CI/CD pipeline using Jenkins and ArgoCD for continuous deployment.
+- Created a responsive and dynamic frontend using React.js, leveraging reusable components and efficient state management.
+- Used EC2 for hosting bootstrap servers for Jenkins and EKS instances.
+- Leveraged other AWS services such as RDS, EKS and S3 ensuring a robust and high-performance application.
 
 ### **[Picogram](http://dock-multi-env.eba-whinqjhn.us-east-2.elasticbeanstalk.com)**
 
@@ -88,20 +93,22 @@ _Sept 2022 - present_
 
 - Managed a full-stack e-commerce platform for selling beats.
 - Used Node.js and AWS S3 for backend management and storage.
+- Leveraged Node.js in the backend to seamlessly manage AWS S3 buckets for storing diverse file formats (MP3* WAV* ZIP)
+- Containerized Front and back-end services onto AWS ensuring seamless performance under heavy YouTube-driven traffic.
 
 ### **[Groccery List App](https://github.com/byalif/370Fall22Sec34Team1/tree/main/GroupProject)**
 
 _Sept 2022 - Dec 2022_
 
-- Led a team to develop a to-do list app using Android Studio.
+- Led a collaborative team of five in my software engineering course at Queens College employing a waterfall SDLC to successfully develop a to-do list app using Android Studio and JUnit testing.
 - Utilized GitHub for version control and collaboration.
 
 ### **[Nutrition App](https://github.com/byalif/370Fall22Sec34Team1/tree/main/GroupProject)**
 
 _June 2022 - July 2022_
 
-- Developed a nutrition app with a Golang backend.
-- Integrated with external APIs for dynamic nutritional data computation.
+- App Architected a full-stack nutrition app with a Golang backend
+- Seamlessly integrated with an external API to dynamically compute nutritional details (protein fats etc.) for user-tracked foods.
 
 ---
 
