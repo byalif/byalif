@@ -74,7 +74,7 @@ _Sept 2023 - present_
 - Developed a fitness coaching platform using Spring Boot microservices.
 - Utilized Apache Kafka for asynchronous task management and integrated Zipkin for distributed tracing.
 - Implemented a custom Spring Security filter for role-based access control in the API gateway.
-- Containerized micro-services with Docker and deployed them on an AWS EKS cluster.
+- Containerized micro-services with Docker/Kubernetes and deployed them on an AWS EKS cluster.
 - Set up a CI/CD pipeline using Jenkins and ArgoCD for continuous deployment.
 - Created a responsive and dynamic frontend using React.js, leveraging reusable components and efficient state management.
 - Used EC2 for hosting bootstrap servers for Jenkins and EKS instances.
