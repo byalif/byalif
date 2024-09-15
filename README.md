@@ -14,17 +14,6 @@ With 1.5+ years of industry experience as a Full Stack Software Developer, I spe
 
 ## 💼 Work Experience
 
-**Teknotrain Inc**  
-_Full Stack Software Developer_  
-_December 2022 - Present_
-
-- Developed web applications using HTML, CSS, and Bootstrap.
-- Utilized React for creating reusable components and front-end libraries.
-- Worked with MySQL databases, writing SQL queries for data operations.
-- Developed and deployed APIs and microservices using Spring Boot.
-- Leveraged various AWS services like EC2, EBS, and ECS.
-- Implemented RESTful services and improved application performance.
-- Created and deployed CI/CD pipelines using Jenkins and Docker.
 
 **Argoprep Ed. Tech**  
 _Software Engineer Intern_  
