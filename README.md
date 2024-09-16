@@ -15,6 +15,16 @@ With 1.5+ years of industry experience as a Full Stack Software Developer, I spe
 ## 💼 Work Experience
 
 **Argoprep Ed. Tech**  
+_Full Stack Software Developer_  
+_December 2023 – Present_
+
+- Architected and developed full-stack features for the Argoprep platform, including front-end (React.js) and back-end (Spring Boot) components.
+- Spearheaded the creation of ECS tasks and modified Docker images from private ECR repositories, enhancing microservices architecture.
+- Worked on a Jenkins pipeline to build Docker images, push them to Amazon ECR, and automatically update ECS task definitions with the new image versions.
+- Utilized AWS IAM roles to collaborate with cross-functional teams, making pull requests via GitHub to ensure high-quality code delivery.
+- Led development of multiple front-end features with ReactJS, improving user experience and interactivity.
+
+**Argoprep Ed. Tech**  
 _Software Engineer Intern_  
 _September 2022 - May 2023_
 
