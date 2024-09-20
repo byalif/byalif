@@ -50,7 +50,7 @@ _2018 - 2023_
 **Web Technologies:** HTML, CSS, JavaScript, JQuery, ReactJS, Node JS, JSON  
 **Frameworks:** Hibernate, Spring, Spring Boot, Log4j  
 **Web Services:** RESTful, Micro Services  
-**Web/App Servers:** Apache Tomcat, WebLogic, JBoss  
+**Web/App Servers:** Apache Tomcat  
 **Build Automation:** Maven, Ansible, Jenkins  
 **Containerization:** Docker  
 **Databases:** Oracle, MySQL, MongoDB  
@@ -65,7 +65,7 @@ _2018 - 2023_
 
 ## 🚀 Projects
 
-### **[Sousaesthetic.com](https://main.d354g4xaeaemb9.amplifyapp.com)**
+### **[Sousaesthetic.com](https://sousaesthetics.netlify.app)**
 
 _Sept 2023 - present_
 
@@ -78,7 +78,7 @@ _Sept 2023 - present_
 - Used EC2 for hosting bootstrap servers for Jenkins and EKS instances.
 - Leveraged other AWS services such as RDS, EKS and S3 ensuring a robust and high-performance application.
 
-### **[Picogram](http://dock-multi-env.eba-whinqjhn.us-east-2.elasticbeanstalk.com)**
+### **[Picogram](https://66ed8fd9686ce703f3d3f191--ephemeral-cocada-1cf45c.netlify.app)**
 
 _Dec 2023 - Jan 2024_
 
