@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-With 1.5+ years of industry experience as a Full Stack Software Developer, I specialize in web application development through all phases of the Software Development Life Cycle (SDLC) including analysis, design, coding, testing, and implementation. I have hands-on experience with a range of technologies and frameworks, particularly in AWS, Spring Boot, and React. My passion lies in creating efficient, scalable, and user-friendly applications.
+With 1.5+ years of industry experience as a Full Stack Software Developer, I specialize in web application development through all phases of the Software Development Life Cycle (SDLC) including analysis, design, coding, testing, and implementation. I have hands-on experience with a range of technologies and frameworks, particularly in AWS, Spring Boot, and React. My passion lies in creating efficient, scalable, and user-friendly applications ensuring adherence to software development best practices. 
 
 ---
 
@@ -71,8 +71,4 @@ A photo-sharing platform built with isolated Docker containers and deployed on A
 Feel free to reach out if you have any questions or would like to collaborate on a project!
 """
 
-# Saving the content to README.md
-with open("/mnt/data/README.md", "w") as f:
-    f.write(readme_content)
 
-"/mnt/data/README.md"
