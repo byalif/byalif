@@ -1,4 +1,3 @@
-readme_content = """
 # 👋 Hi, I'm Alif Rahi
 
 ### Full Stack Software Developer | Queens, NY
