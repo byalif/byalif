@@ -1,5 +1,3 @@
-# I'll create a README.md file based on the user's information
-
 readme_content = """
 # 👋 Hi, I'm Alif Rahi
 
