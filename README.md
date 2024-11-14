@@ -1,8 +1,11 @@
+# I'll create a README.md file based on the user's information
+
+readme_content = """
 # 👋 Hi, I'm Alif Rahi
 
 ### Full Stack Software Developer | Queens, NY
 
-📧 alifrahi22@gmail.com | 📱 +1 347-863-0546
+📧 alifrahi22@gmail.com | 📱 +1 347-863-0546 | [Portfolio](https://portfoliobyalif.netlify.app) | [GitHub](https://github.com/byalif)
 
 ---
 
@@ -15,29 +18,28 @@ With 1.5+ years of industry experience as a Full Stack Software Developer, I spe
 ## 💼 Work Experience
 
 **Argoprep Ed. Tech**  
-_Full Stack Software Developer_  
-_December 2023 – Present_
+_Full Stack Software Engineer_  
+_November 2023 – November 2024_  
+- Developed and optimized high-performing Spring Boot microservices that support over 1 million students and educators, with REST API endpoints engineered to handle peak loads of up to 5 million requests daily.
+- Created a data ingestion service utilizing Redis and batch processing to manage real-time requests from thousands of concurrent users, reducing database load by 40% during peak hours.
+- Deployed and streamlined distributed backend services on AWS (EKS, S3), improving system uptime to 99.9% and reducing infrastructure costs by 25%.
+- Utilized CI/CD pipelines with Jenkins for code quality checks and automated testing.
 
-- Architected and developed full-stack features for the Argoprep platform, including front-end (React.js) and back-end (Spring Boot) components.
-- Spearheaded the creation of ECS tasks and modified Docker images from private ECR repositories, enhancing microservices architecture.
-- Worked on a Jenkins pipeline to build Docker images, push them to Amazon ECR, and automatically update ECS task definitions with the new image versions.
-- Utilized AWS IAM roles to collaborate with cross-functional teams, making pull requests via GitHub to ensure high-quality code delivery.
-- Led development of multiple front-end features with ReactJS, improving user experience and interactivity.
+**Software Engineer Intern**  
+_September 2022 – August 2023_  
+- Implemented quiz feature with ReactJS and Node.js, following design mockups from Figma.
+- Collaborated using Jira and Git for project management and code review.
 
-**Argoprep Ed. Tech**  
-_Software Engineer Intern_  
-_September 2022 - May 2023_
-
-- Designed and developed a quiz feature using ReactJS and NodeJs.
-- Implemented designs from Figma, ensuring a user-friendly experience.
-- Collaborated using Jira and Git for version control.
-- Used SQL for data storage and Travis-CI for CI/CD pipelines.
+**CUNY Tech Prep**  
+_Software Developer_  
+_September 2022 – August 2023_  
+- Developed hands-on projects using React, Node + Express, and PostgreSQL with Agile practices and CI/CD.
 
 ---
 
 ## 📚 Education
 
-**B.A. in Computer Science**  
+**Bachelor of Arts in Computer Science**  
 _CUNY Queens College, Queens, NY_  
 _2018 - 2023_
 
@@ -45,82 +47,35 @@ _2018 - 2023_
 
 ## 🔧 Skills
 
-**Languages:** C, C++, Java, J2EE, SQL  
-**J2EE Technologies:** Core Java, Multi-threading, Collections, Servlets, JSP, JDBC, Hibernate  
-**Web Technologies:** HTML, CSS, JavaScript, JQuery, ReactJS, Node JS, JSON  
-**Frameworks:** Hibernate, Spring, Spring Boot, Log4j  
-**Web Services:** RESTful, Micro Services  
-**Web/App Servers:** Apache Tomcat  
-**Build Automation:** Maven, Ansible, Jenkins  
-**Containerization:** Docker  
-**Databases:** Oracle, MySQL, MongoDB  
-**Development Tools:** Eclipse, IntelliJ  
-**Testing Tools/Others:** JUnit, JIRA, Mockito  
-**Platforms:** Windows, UNIX, Linux  
-**Cloud Technologies:** AWS  
-**Messaging Tools:** Kafka  
-**Front End:** JavaScript, React.js, React-Native, Next.js, Tailwind, CSS, Jest, Figma, Android
+**Front-end:** JavaScript, React.js, HTML, CSS, React-Native, Next.js, TailwindCSS, Jest, Figma, Android  
+**Back-end:** Java, Spring Boot, Python, MySQL, MVC, Node.js, Express, MongoDB, C/C++  
+**DevOps:** Linux, Bash/Shell Scripting, AWS, Git, Docker, Kubernetes, Jenkins, CI/CD, Jira, Maven, Terraform  
+**Certifications:** AWS Certified Developer Associate (Exp. 2027)
 
 ---
 
 ## 🚀 Projects
 
-### **[Sousaesthetic.com](https://sousaesthetics.netlify.app)**
+### **[Trending Video Forecasting Tool](https://github.com/byalif/Trending-Video-Forecasts)**  
+Built a distributed forecasting system to predict trending 'type beats' on YouTube by performing real-time machine learning analysis on time-series datasets.
+- Designed an LSTM model to forecast hourly trends and trained it on weighted engagement metrics (views, likes, comments).  
+- Automated data pipeline using cron jobs and Python scripts for data cleaning and preprocessing.
 
-_Sept 2023 - present_
+### **[Fitness Coaching Platform](https://github.com/byalif/sousa-front)**  
+Developed a fitness coaching platform using Spring Boot microservices and React.js.
+- Integrated Kafka for asynchronous task management and deployed microservices on AWS EKS.
+- Automated deployment on AWS EKS with CI/CD pipeline using Jenkins and ArgoCD.
 
-- Developed a fitness coaching platform using Spring Boot microservices.
-- Utilized Apache Kafka for asynchronous task management and integrated Zipkin for distributed tracing.
-- Implemented a custom Spring Security filter for role-based access control in the API gateway.
-- Containerized micro-services with Docker/Kubernetes and deployed them on an AWS EKS cluster.
-- Set up a CI/CD pipeline using Jenkins and ArgoCD for continuous deployment.
-- Created a responsive and dynamic frontend using React.js, leveraging reusable components and efficient state management.
-- Used EC2 for hosting bootstrap servers for Jenkins and EKS instances.
-- Leveraged other AWS services such as RDS, EKS and S3 ensuring a robust and high-performance application.
-
-### **[Picogram](https://66ed8fd9686ce703f3d3f191--ephemeral-cocada-1cf45c.netlify.app)**
-
-_Dec 2023 - Jan 2024_
-
-- Created a social media clone with isolated Docker containers.
-- Implemented CI/CD pipeline with Travis-CI and deployed on AWS Elastic Beanstalk.
-
-### **[Byalif.com](https://youtube.com/byalif)**
-
-_Sept 2022 - present_
-
-- Managed a full-stack e-commerce platform for selling beats.
-- Used Node.js and AWS S3 for backend management and storage.
-- Leveraged Node.js in the backend to seamlessly manage AWS S3 buckets for storing diverse file formats (MP3* WAV* ZIP)
-- Containerized Front and back-end services onto AWS ensuring seamless performance under heavy YouTube-driven traffic.
-
-### **[Groccery List App](https://github.com/byalif/370Fall22Sec34Team1/tree/main/GroupProject)**
-
-_Sept 2022 - Dec 2022_
-
-- Led a collaborative team of five in my software engineering course at Queens College employing a waterfall SDLC to successfully develop a to-do list app using Android Studio and JUnit testing.
-- Utilized GitHub for version control and collaboration.
-
-### **[Nutrition App](https://github.com/byalif/370Fall22Sec34Team1/tree/main/GroupProject)**
-
-_June 2022 - July 2022_
-
-- App Architected a full-stack nutrition app with a Golang backend
-- Seamlessly integrated with an external API to dynamically compute nutritional details (protein fats etc.) for user-tracked foods.
-
----
-
-## 📘 Relevant Coursework
-
-- CSCI 381 - Cloud Computing
-- CSCI 370 - Software Engineering
-- CSCI 355 - Internet and Web Technologies
-- CSCI 381 - Computer Vision
-- CSCI 331 - Databases
-- CSCI 323 - Design and Analysis of Algorithms
-- CSCI 340 - Operating Systems Principles
-- CSCI 316 - Principles of Programming Languages
+### **[Picogram](https://66ed8fd9686ce703f3d3f191--ephemeral-cocada-1cf45c.netlify.app)**  
+A photo-sharing platform built with isolated Docker containers and deployed on AWS Elastic Beanstalk.
 
 ---
 
 Feel free to reach out if you have any questions or would like to collaborate on a project!
+"""
+
+# Saving the content to README.md
+with open("/mnt/data/README.md", "w") as f:
+    f.write(readme_content)
+
+"/mnt/data/README.md"
